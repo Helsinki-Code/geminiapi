@@ -1,0 +1,6 @@
+{
+  "name": "Gemini API Machine",
+  "description": "A platform that showcases and simplifies the capabilities of the Gemini API, providing developers with tools and code examples for easy integration. Explore text generation, image creation, grounded search, and more.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
